@@ -93,7 +93,6 @@ nav a {
 }
 
 .section-title::after {
-  content: '';
   display: block;
   width: 50px;
   height: 3px;
