@@ -197,33 +197,33 @@ nav a {
 
 .skill-name {
   display: flex;
-  justify-content: space-between;
-  font-weight: bold;
-  margin-bottom: 5px;
+  justify-content:space-between;
+  font-weight:bold;
+  margin-bottom:5px;
 }
 
 .bar {
-  background-color: #e5e7eb;
-  border-radius: 10px;
+  background-color:#e5e7eb;
+  border-radius:10px;
   height: 10px;
   overflow: hidden;
 }
 
 .fill {
-  background-color: #3b82f6;
-  height: 100%;
+  background-color:#3b82f6;
+  height:100%;
   border-radius: 10px;
   transition: width 1s ease-in-out;
 }
 .contact-section {
-  text-align: center;
-  max-width: 500px;
+  text-align:center;
+  max-width:500px;
   margin: 0 auto 60px auto;
   padding: 0 15px;
 }
 
 .contact-form {
-  display: flex;
+  display:flex;
   flex-direction: column;
   gap: 15px;
 }
