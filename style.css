@@ -18,7 +18,7 @@ nav {
   background-color: #fff;
  box-shadow: 0 1px 4px rgba(146, 161, 176);
  }
-.logo {
+.h-1 {
   font-weight: bold;
   font-size: 1.2rem;
 }
@@ -168,14 +168,12 @@ nav a {
   background-size: cover;
   background-position: center;
 }
-
-/* Image via CSS */
 .image-one {
-  background-image: url('https://www.pexels.com/photo/black-flat-screen-computer-monitor-turned-on-1181244/');
+  background-image: url('assets/image10.png');
 }
 
 .image-two {
-  background-image: url('https://unsplash.com/photos/7okkFhxrxNw');
+  background-image: url('assets/image.jpg');
 }
 
 .project-info {
